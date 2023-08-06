@@ -1,4 +1,4 @@
-# Hotel_reservations_project
+# Hotel_reservation_project
 Factors affecting hotel reservation cancellations (Problem Statement)
 
 
