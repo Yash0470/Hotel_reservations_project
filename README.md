@@ -1,5 +1,6 @@
 # Hotel_reservation_project
 Factors affecting hotel reservation cancellations (Problem Statement)
+
 Research Question 
 
 1. What are the variables that affect hotel reservation cancellations? 
