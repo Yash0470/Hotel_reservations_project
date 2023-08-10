@@ -10,7 +10,7 @@ Research Question
 
 3. How will hotels be assisted in making pricing and promotional decisions? 
 
-Steps Involved to analyse hotel reservation cancellations:
+Steps Involved :
  Importing Libraries,
  Loading Dataset,
  Data Cleaning,
