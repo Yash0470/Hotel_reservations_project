@@ -12,5 +12,18 @@ Research Question
 
 
 
-Task Performed:
-Data Collection,Data Cleaning,Exploratory Data Analysis (EDA),Customer Segmentation,Features Prediction,Sentiment Analysis,Data Visualization,Insights and Recommendations,Project Report created.
+Steps Involved to analyse hotel reservation cancellations:
+ Importing Libraries
+ Loading Dataset
+ Data Cleaning
+   * Removing null values
+   * Dropping Irrelevent Features
+ Exploratory Data Analysis (EDA)
+   * Outlier Detection
+   * Outlier Removal
+   * Encoding
+ Customer Segmentation
+ Features Prediction
+ Data Visualization
+ Insights and Recommendations
+ Project Report created
