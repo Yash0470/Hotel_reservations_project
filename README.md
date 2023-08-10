@@ -1,5 +1,12 @@
 # Hotel_reservation_project
 Factors affecting hotel reservation cancellations (Problem Statement)
+Research Question 
+
+1. What are the variables that affect hotel reservation cancellations? 
+
+2. How can we make hotel reservations cancellations better? 
+
+3. How will hotels be assisted in making pricing and promotional decisions? 
 
 
 Objective: To understand customer behavior on hotels reservation and reservation cancellation through online and offline medium of various western countries and identify opportunities to enhance user experience and increase sales.
