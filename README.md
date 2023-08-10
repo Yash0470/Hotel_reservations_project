@@ -13,6 +13,7 @@ Research Question
 
 
 Steps Involved to analyse hotel reservation cancellations:
+
  Importing Libraries
  Loading Dataset
  Data Cleaning
