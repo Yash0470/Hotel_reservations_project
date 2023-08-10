@@ -16,12 +16,12 @@ Steps Involved to analyse hotel reservation cancellations:
  Importing Libraries
  Loading Dataset
  Data Cleaning
-   * Removing null values
-   * Dropping Irrelevent Features
+   1. Removing null values
+   2. Dropping Irrelevent Features
  Exploratory Data Analysis (EDA)
-   * Outlier Detection
-   * Outlier Removal
-   * Encoding
+   1. Outlier Detection
+   2. Outlier Removal
+   3. Encoding
  Customer Segmentation
  Features Prediction
  Data Visualization
