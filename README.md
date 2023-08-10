@@ -11,12 +11,12 @@ Research Question
 3. How will hotels be assisted in making pricing and promotional decisions? 
 
 Steps Involved to analyse hotel reservation cancellations:
- Importing Libraries
- Loading Dataset
- Data Cleaning
- Exploratory Data Analysis (EDA)
- Customer Segmentation
- Features Prediction
- Data Visualization
- Insights and Recommendations
- Project Report created
+ Importing Libraries,
+ Loading Dataset,
+ Data Cleaning,
+ Exploratory Data Analysis (EDA),
+ Customer Segmentation,
+ Features Prediction,
+ Data Visualization,
+ Insights and Recommendations,
+ Project Report created.
